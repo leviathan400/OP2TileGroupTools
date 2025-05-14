@@ -20,10 +20,11 @@ OP2TileGroupTools is a simple utility application for working with Outpost 2: Di
 - Places the tile groups in an organized layout
 - Open's the map in OP2MapViewer to see the results
 
-## How to use:
+### How to use:
 1. Click "Open Map" to load an Outpost 2 map file
 2. Click "Export Tile Groups" to save all tile groups as JSON
 3. Click "Create Map" to build a new map with all tile groups
+
 
 ## Tile Group JSON Format
 
