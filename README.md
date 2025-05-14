@@ -32,7 +32,7 @@ Each tile group is stored as a separate JSON file with the following structure:
 ```json
 {
   "header": {
-    "width": 6,         // Width of the tile group in tiles
+    "width": 6,          // Width of the tile group in tiles
     "height": 3,         // Height of the tile group in tiles
     "tileset": "well00", // Tileset identifier
     "name": "snowroc7",  // Name of the tile group
